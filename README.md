@@ -1,2 +1,2 @@
-# Software-development-tools
+# Software-development
 Лекции и задания по "Инструментальные средства разработки программ", 2018
